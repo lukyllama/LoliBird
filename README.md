@@ -19,7 +19,7 @@ This Python script generates WARP+ keys for Cloudflare's service. It fetches bas
 ## Usage
 1. Run the script:
 
-   python warp_key_generator.py
+   python main.py
 
 2. Enter the number of WARP+ keys you need when prompted.
 
