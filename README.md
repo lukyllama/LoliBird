@@ -10,7 +10,7 @@ This Python script generates WARP+ keys for Cloudflare's service. It fetches bas
 
 2. Navigate to the project directory:
 
-   cd warp-key-generator
+   cd LoliBird
 
 3. Install dependencies:
 
