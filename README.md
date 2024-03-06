@@ -14,7 +14,7 @@ This Python script generates WARP+ keys for Cloudflare's service. It fetches bas
 
 3. Install dependencies:
 
-   pip install -r requirements.txt
+   pip install -r requirements.txt (will be added soon)
 
 ## Usage
 1. Run the script:
