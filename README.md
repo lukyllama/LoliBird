@@ -1,4 +1,4 @@
-# WARP+ Key Generator
+# WARP+ Key Generator (under devlopment)
 
 ## Description
 This Python script generates WARP+ keys for Cloudflare's service. It fetches base keys, registers accounts, and associates keys with them, providing a list of generated keys for testing purposes.
